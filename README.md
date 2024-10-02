@@ -23,3 +23,14 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=py,bash,powershell,windows,kali,debian,vscode,github,obsidian,md,discord" />
   </a>
 </p>
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,bash,powershell,windows,kali,debian,vscode,github,obsidian,md,discord" />
+  </a>
+  <a href="https://github.com/CyberSec626/Outros/blob/main/Active%20Directory%20Icon.png">
+    <img src="https://github.com/CyberSec626/Outros/raw/main/Active%20Directory%20Icon.png" alt="Active Directory Icon" width="260" height="260" />
+  </a>
+</p>
