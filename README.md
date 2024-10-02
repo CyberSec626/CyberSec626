@@ -1,4 +1,4 @@
-### About Me
+### 📝 About Me
 
 🔒 Cybersecurity professional and enthusiast with a passion for ethical hacking and security assessment.
 
