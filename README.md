@@ -15,3 +15,11 @@ You can click the Preview link to take a look at your changes.
 # TESTE
 
 [![My Skills](https://skillicons.dev/icons?i=py,bash,powershell,windows,kali,debian,vscode,github,obsidian,md,discord)](https://skillicons.dev)
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
