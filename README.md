@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @CyberSec626
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### About Me
+
+🔒 Cybersecurity professional and enthusiast with a passion for ethical hacking and security assessment.
 
 <!---
 CyberSec626/CyberSec626 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-### TECNOLOGIAS
+### 🛠️ Tools & Technologies:
 
 <p>
   <a href="https://github.com/CyberSec626/Outros/blob/main/Active%20Directory%20Icon.png">
@@ -23,3 +19,4 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
+🌱 Currently learning: Deep Learning
