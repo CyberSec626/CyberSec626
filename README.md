@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>
   <a href="https://github.com/CyberSec626/Outros/blob/main/Active%20Directory%20Icon.png">
-    <img src="https://github.com/CyberSec626/Outros/raw/main/Active%20Directory%20Icon.png" alt="Active Directory Icon" width="53" height="50" />
+    <img src="https://github.com/CyberSec626/Outros/raw/main/Active%20Directory%20Icon.png" alt="Active Directory Icon" width="50" height="50" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,kali,debian,powershell,bash,py,vscode,github,md,obsidian,discord" />
