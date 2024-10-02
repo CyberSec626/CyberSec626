@@ -18,5 +18,3 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=windows,kali,debian,powershell,bash,py,vscode,github,md,obsidian,discord" />
   </a>
 </p>
-
-🌱 Currently learning: Deep Learning
