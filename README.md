@@ -20,3 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 
 ![](https://github.com/CyberSec626/Outros/blob/main/Active%20Directory%20Icon.png){:width="260px"}
+
+
+<img src="https://github.com/CyberSec626/Outros/raw/main/Active%20Directory%20Icon.png" alt="Active Directory Icon" width="260" height="260">
+
+
+
+<img src="https://github.com/CyberSec626/Outros/raw/main/Active%20Directory%20Icon.png" alt="Active Directory Icon" width="260" height="260">
